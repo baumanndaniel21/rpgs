@@ -58,11 +58,11 @@
 
 ### 🅵 Equipe F
 - **Fernando M.**  
-  Não enviado
+  [Protótipo no Portugol.dev](https://github.com/gustavo27499/exercicios-/blob/0c076fc223a976d95a8ec7976fbc6b3483c6a31c/RPG%20PRONTO.por)
 - **Gustavo A.**  
-  [Protótipo no Portugol.dev](https://portugol.dev/#share=24jbrop)
+  [Protótipo no Portugol.dev](https://github.com/gustavo27499/exercicios-/blob/0c076fc223a976d95a8ec7976fbc6b3483c6a31c/RPG%20PRONTO.por)
 - **Victor A.**  
-  Não enviado
+  [Protótipo no Portugol.dev](https://github.com/gustavo27499/exercicios-/blob/0c076fc223a976d95a8ec7976fbc6b3483c6a31c/RPG%20PRONTO.por)
 
 ---
 
