@@ -9,114 +9,111 @@
 ## 📋 Equipes e Repositórios
 
 ### 🅰️ Equipe A
-- **Alex Hilleshein**  
+- **Alex H.**  
   [sanatorio-doutor-nefario](https://github.com/Alekci/sanatorio-doutor-nefario.git)
-- **Giovanna Mendonça De Moraes**  
+- **Giovanna M.**  
   [sanatorio-doutor-nefario](https://github.com/Alekci/sanatorio-doutor-nefario.git)
-- **Maria Clara Almeida Reinhold**  
+- **Maria R.**  
   [sanatorio-doutor-nefario](https://github.com/Alekci/sanatorio-doutor-nefario)
 
 ---
 
 ### 🅱️ Equipe B
-- **Amanda Rosa do Nascimento**  
+- **Amanda N.**  
   [FugaDaPrisaoSubterranea](https://github.com/julia-lw/Jogo-de-RPG--FugaDaPrisaoSubterranea)
-- **Emilly Camile Rodrigues**  
+- **Emilly R.**  
   [Fuga-da-pris-o-](https://github.com/amanda15000/Fuga-da-pris-o-)
-- **Júlia Lichtenfels Weçolovis**  
+- **Júlia W.**  
   `julia-lw/Fuga-da-Prisao-Subterranea--JogodeRPG`
 
 ---
 
 ### 🅲 Equipe C
-- **Arthur Bridi Gauche**  
+- **Arthur G.**  
   [RPG-de-linha-de-comando-1](https://github.com/ArthurGauche/RPG-de-linha-de-comando-1)
-- **Guilherme Antonio Mantoanelli**  
+- **Guilherme M.**  
   [RPG-de-linha-de-comando](https://github.com/Guiboom/RPG-de-linha-de-comando)
 
 ---
 
 ### 🅳 Equipe D
-- **Carla Viviane Solano Reis Dourado**  
+- **Carla D.**  
   Não enviado
-- **Francy Lauana Schenkel**  
+- **Francy S.**  
   [RPG Carla/Francy](https://github.com/vivicarla/RPG-de-linha-de-comando/blob/main/Sem%20t%C3%ADtulo%20(7).por)
-- **Luiza Swarowsky**  
+- **Luiza S.**  
   [RPG Carla/Luiza](https://github.com/vivicarla/RPG-de-linha-de-comando.git)
 
 ---
 
 ### 🅴 Equipe E
-- **Carlos Eduardo Voinaroski**  
+- **Carlos V.**  
   Não enviado
-- **Erick Pereira Berto**  
+- **Erick B.**  
   Não enviado
-- **Gabriel Rosa Erhardt**  
+- **Gabriel E.**  
   [Monstrix](https://github.com/gabrielrosa999/Monstrix.git)
 
 ---
 
 ### 🅵 Equipe F
-- **Fernando Marquez**  
+- **Fernando M.**  
   Não enviado
-- **Gustavo Emanuel Hasse Andrade**  
+- **Gustavo A.**  
   [Protótipo no Portugol.dev](https://portugol.dev/#share=24jbrop)
-- **Victor Walfrid Hasse Andrade**  
+- **Victor A.**  
   Não enviado
 
 ---
 
 ### 🅶 Equipe G
-- **Gabriel Antunes Da Silva**  
+- **Gabriel S.**  
   [RedRoom](https://github.com/yKraus05/RedRoom-5.0.git)
-- **Gabriel Klaumann Kraus**  
+- **Gabriel K.**  
   [RedRoom](https://github.com/yKraus05/RedRoom-5.0.git)
-- **Lucas Francisco Marchioro Serafim**  
+- **Lucas S.**  
   [RedRoom](https://github.com/yKraus05/RedRoom-5.0.git)
 
 ---
 
 ### 🅸 Equipe I
-- **Kaio Machado**  
+- **Kaio M.**  
   [jogo](https://github.com/machadozx/jogo.git)
-- **Lucas Gabriel Borges Braatz**  
+- **Lucas B.**  
   [jogo](https://github.com/machadozx/jogo.git)
-- **Vitor Kuhl Baumann**  
+- **Vitor B.**  
   [jogo](https://github.com/machadozx/jogo.git)
 
 ---
 
 ### 🅹 Equipe J
-- **Leonardo Miguel Wloch Fabris**  
+- **Leonardo F.**  
   [MEMORIA-ZERO](https://github.com/zenakio/MEMORIA-ZERO.git)
-- **Lucas Gabriel Bächle**  
+- **Lucas G.**  
   [MEMORIA-ZERO](https://github.com/zenakio/MEMORIA-ZERO.git)
-- **Victor Felipe Rodrigues**  
+- **Victor R.**  
   [MEMORIA-ZERO](https://github.com/zenakio/MEMORIA-ZERO.git)
 
 ---
 
 ### 🅻 Equipe L
-- **Racher Calzadilla**  
+- **Racher C.**  
   [RPG-Sofia-e-Racher](https://github.com/sofia201029/RPG-Sofia-e-Racher.git)
-- **Sofia Carvalho Dos Santos**  
+- **Sofia S.**  
   [RPG-Sofia-e-Racher](https://github.com/sofia201029/RPG-Sofia-e-Racher.git)
 
 ---
 
 ## ⚠️ Sem envio até o momento
-- **Carla Viviane Solano Reis Dourado** (Equipe D)  
-- **Carlos Eduardo Voinaroski** (Equipe E)  
-- **Erick Pereira Berto** (Equipe E)  
-- **Fernando Marquez** (Equipe F)  
-- **Victor Walfrid Hasse Andrade** (Equipe F)  
+- **Carla D.** (Equipe D)  
+- **Carlos V.** (Equipe E)  
+- **Erick B.** (Equipe E)  
+- **Fernando M.** (Equipe F)  
+- **Victor A.** (Equipe F)  
 
 ---
 
 ## ✔️ Observações
 - Alguns projetos foram entregues com links duplicados por membros da mesma equipe.
-- Onde o link não consta no GitHub, foi indicado como "Não enviado" ou preenchido com o nome visível no ambiente AVA.
+- Onde o link não consta no GitHub, foi indicado como "Não enviado".
 - Última atualização: `01/07/2025`
-
----
-
