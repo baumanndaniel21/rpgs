@@ -1,5 +1,5 @@
 # Entregas - RPG de Linha de Comando  
-**Curso:** Técnico em Informática para Internet  
+**Curso:** Técnico em Informática para Internet V1 
 **Unidade Curricular:** Lógica de Programação  
 **Atividade:** Jogo RPG em Linha de Comando  
 **Entrega até:** 24/06/2025  
